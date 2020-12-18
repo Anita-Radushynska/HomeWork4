@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:title="First tab"/>
+    <item
+        android:id="@+id/second"
+        android:title="Seconf tab"/>
+    <item
+        android:id="@+id/third"
+        android:title="Third tab"/>
+    <item
+        android:id="@+id/fourth"
+        android:title="Fourth tab"/>
+    <item
+        android:id="@+id/fifth"
+        android:title="Fifth tab"/>
+    <item
+        android:id="@+id/sixth"
+        android:title="Sixth tab"/>
+    <item
+        android:id="@+id/seventh"
+        android:title="Seventh tab"/>
+    <item
+        android:id="@+id/eighth"
+        android:title="Eighth tab"/>
+    <item
+        android:id="@+id/ninth"
+        android:title="Ninth tab"/>
+    <item
+        android:id="@+id/tenth"
+        android:title="Tenth tab"/>
+    <item
+        android:id="@+id/eleventh"
+        android:title="Eleventh tab"/>
+    <item
+        android:id="@+id/twelfth"
+        android:title="Twelfth tab"/>
+</menu>
